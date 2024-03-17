@@ -14,6 +14,7 @@ Using Pandas and Jupyter Notebook, create a report that includes the following d
 Hint: Check out the sample solution called PyCitySchools_starter.ipynb located in the .zip file to review the desired format for this assignment.
 
 District Summary
+
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
 
 Include the following:
@@ -28,6 +29,7 @@ Include the following:
   - % overall passing (the percentage of students who passed math AND reading)
 
 School Summary
+
 Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school.
 
 Include the following:
